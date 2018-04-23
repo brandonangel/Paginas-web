@@ -1,0 +1,46 @@
+body {
+	background: url(img/fondopantalla.png) 100%;
+}
+.containergeneral {
+	padding-left: 12%;
+	padding-right: 12%;
+	padding-top: 2%;
+	padding-bottom: 4%;
+}
+.container1 {
+	background-color: rgba(193, 193, 254, .5019607843137255);
+	padding: 6px;
+}
+.container2 {
+	background-color: rgba(0, 255, 127,.4);
+}
+.container2 .col-lg-3 {
+	padding: 8px; 
+}
+.container2 .col-lg-2 {
+	padding-left: 70px;
+}
+.container3 {
+	padding: 15px;
+}
+.container3 .col-lg-3 {
+	background-color: rgba(193, 193, 254, .8);
+	border-left: 6px solid rgba(100, 193, 254, .9);;
+}
+.lorem {
+	padding-left: 270px;
+}
+.container3 .col-lg-3 .contenedorcirculo {
+	padding-top: 10px;
+}
+.container3 .col-lg-9 {
+	background-color: rgba(255,255,255,.8);
+}
+.container3 .col-lg-9 {
+	padding-left: 5%;
+	padding-top: 3%;
+}
+.perfildelautor {
+	font-size: 25px;
+	font-family: 'tahoma', sans-serif;
+}
